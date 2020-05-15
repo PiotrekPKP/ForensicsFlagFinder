@@ -1,0 +1,17 @@
+D:\Programowanie\ForensicsFlagFinder\ForensicsFlagFinder\bin\Debug\ForensicsFlagFinder.exe.config
+D:\Programowanie\ForensicsFlagFinder\ForensicsFlagFinder\bin\Debug\ForensicsFlagFinder.exe
+D:\Programowanie\ForensicsFlagFinder\ForensicsFlagFinder\bin\Debug\ForensicsFlagFinder.pdb
+D:\Programowanie\ForensicsFlagFinder\ForensicsFlagFinder\obj\Debug\ForensicsFlagFinder.csprojAssemblyReference.cache
+D:\Programowanie\ForensicsFlagFinder\ForensicsFlagFinder\obj\Debug\MainWindow.g.cs
+D:\Programowanie\ForensicsFlagFinder\ForensicsFlagFinder\obj\Debug\App.g.cs
+D:\Programowanie\ForensicsFlagFinder\ForensicsFlagFinder\obj\Debug\ForensicsFlagFinder_MarkupCompile.cache
+D:\Programowanie\ForensicsFlagFinder\ForensicsFlagFinder\obj\Debug\ForensicsFlagFinder_MarkupCompile.lref
+D:\Programowanie\ForensicsFlagFinder\ForensicsFlagFinder\obj\Debug\MainWindow.baml
+D:\Programowanie\ForensicsFlagFinder\ForensicsFlagFinder\obj\Debug\ForensicsFlagFinder.g.resources
+D:\Programowanie\ForensicsFlagFinder\ForensicsFlagFinder\obj\Debug\ForensicsFlagFinder.Properties.Resources.resources
+D:\Programowanie\ForensicsFlagFinder\ForensicsFlagFinder\obj\Debug\ForensicsFlagFinder.csproj.GenerateResource.cache
+D:\Programowanie\ForensicsFlagFinder\ForensicsFlagFinder\obj\Debug\ForensicsFlagFinder.csproj.CoreCompileInputs.cache
+D:\Programowanie\ForensicsFlagFinder\ForensicsFlagFinder\obj\Debug\ForensicsFlagFinder.exe
+D:\Programowanie\ForensicsFlagFinder\ForensicsFlagFinder\obj\Debug\ForensicsFlagFinder.pdb
+D:\Programowanie\ForensicsFlagFinder\ForensicsFlagFinder\obj\Debug\ForensicsFlagFinder_Content.g.cs
+D:\Programowanie\ForensicsFlagFinder\ForensicsFlagFinder\obj\Debug\App.baml

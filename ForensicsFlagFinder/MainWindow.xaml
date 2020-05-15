@@ -1,0 +1,27 @@
+﻿<Window x:Class="ForensicsFlagFinder.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ForensicsFlagFinder"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="800" Width="1200"
+        ResizeMode="NoResize">
+    <Grid>
+        <StackPanel>
+            <Label FontSize="50" Content="Flag Finder" Margin="40,40,0,0" FontWeight="Bold"></Label>
+            <Button Content="Wybierz plik" Width="200" Height="50" FontSize="20" HorizontalAlignment="Left" Margin="45,30,0,0" Click="ButtonChoose_OnClick"></Button>
+            <Label Margin="40,10,0,0" FontSize="15" Content="Liczba znaków:"/>
+            <TextBox Text="4" x:Name="Num" Margin="45,10,0,0"></TextBox>
+            <Label Margin="40,40,0,0" FontSize="15" Content="Wyszukaj (opcjonalnie):"/>
+            <TextBox Text="" x:Name="SearchField" Margin="45,10,0,0"></TextBox>
+            <Button Content="Szukaj" Width="200" Height="50" FontSize="20" HorizontalAlignment="Left" Margin="45,30,0,0" Click="Search"></Button>
+            <Label x:Name="Error" Margin="40,10,0,0" FontSize="15" Content=""></Label>
+            <ScrollViewer x:Name="ScrollViewer" Height="250">
+                <ListView x:Name="ListView" Margin="40,20,0,0"></ListView>
+            </ScrollViewer>
+        </StackPanel>
+        <StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
